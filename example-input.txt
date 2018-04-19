@@ -1,0 +1,12 @@
+title   : mandelbrot1
+settype : mandelbrot
+nmax    : 200
+bound   : 4
+xmin    : -2.25
+ymin    : -1.5
+side    : 3
+divs    : 6000
+ftype   : polynomial
+: 0
+: 0
+: 1
